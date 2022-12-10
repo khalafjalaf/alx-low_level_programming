@@ -1,5 +1,5 @@
 /*
- * File: 9-print_comb.c
+ * File: 9print_comb.c
  * Auth: Brennan D Baraban
  */
 
