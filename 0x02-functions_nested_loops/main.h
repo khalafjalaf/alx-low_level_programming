@@ -1,7 +1,7 @@
 #ifndef main.h
 #define main.h
-/*
- * File: holberton.h
+/**
+ * File: 0-putchar.c
  * Auth: Brennan D Baraban
  * Desc: Header file containing declarations for all functions
  *       used in the 0x02-functions_nested_loops directory.
